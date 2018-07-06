@@ -11,6 +11,9 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "canvas-nest.js": "^2.0.1",
+    "particlesjs": "^2.2.2",
+    "qr.js": "0.0.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
